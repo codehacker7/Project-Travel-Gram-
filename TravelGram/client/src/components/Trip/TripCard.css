@@ -1,0 +1,16 @@
+.trip-screen .timeline-item .cardListItem {
+    margin: 0px;
+    padding: 0px;
+    border-radius: 10px;
+}
+
+.trip-screen .timeline-item .cardName {
+    font-weight: bold;
+    font-size: large;
+}
+
+.tripScreen .timeline-item .cardDescription {
+    margin-top: 10px;
+    font-size: medium;
+    font-style: italic;
+}

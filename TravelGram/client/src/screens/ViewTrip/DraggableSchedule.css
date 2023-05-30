@@ -1,0 +1,10 @@
+.trip-screen .timeline-header {
+  margin-top: 25px;
+  list-style: none;
+}
+
+.trip-screen .timeline {
+  margin: 0px;
+  padding: 25px;
+  list-style: none;
+}
